@@ -1,4 +1,4 @@
-# Rumination_State_Task_beta_
+# Rumination_State_Task_beta
 This experiment is to use psychopy to redo the rumination state task (RST).
  
 RST consists of 4 conditions: resting state, sad autobiographical memory, rumination, 
